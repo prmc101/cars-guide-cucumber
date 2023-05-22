@@ -1,0 +1,53 @@
+2023-05-22 11:05:240 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:370 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:147 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 11:05:498 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 11:05:960 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 11:05:97 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 11:05:315 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-05-22 11:05:542 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-05-22 11:05:741 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-05-22 11:05:913 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 11:05:555 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 11:05:719 INFO  SearchCarsResultPage :42 - actual result: '6 audi a5s for sale under $50,000 in perth, wa'
+2023-05-22 11:05:719 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2023-05-22 11:05:560 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:212 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:297 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 11:05:544 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 11:05:272 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 11:05:371 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 11:05:517 INFO  SearchCarsPage :53 - select make: 'Mitsubishi'
+2023-05-22 11:05:654 INFO  SearchCarsPage :58 - select model: 'Outlander'
+2023-05-22 11:05:815 INFO  SearchCarsPage :63 - select location: 'SA - North'
+2023-05-22 11:05:90 INFO  SearchCarsPage :68 - select priceTo: '60000'
+2023-05-22 11:05:513 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 11:05:627 INFO  SearchCarsResultPage :42 - actual result: '10 mitsubishi outlanders for sale under $60,000 in north, sa'
+2023-05-22 11:05:631 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2023-05-22 11:05:380 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:558 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:818 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 12:05:125 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 12:05:614 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 12:05:351 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 12:05:699 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-05-22 12:05:172 INFO  SearchCarsPage :58 - select model: '118d'
+2023-05-22 12:05:334 INFO  SearchCarsPage :63 - select location: 'NT - North'
+2023-05-22 12:05:497 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 12:05:573 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 12:05:745 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'bmw'
+2023-05-22 12:05:753 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'BMW'
+2023-05-22 12:05:778 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'bmw'
+2023-05-22 12:05:778 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'BMW'
+2023-05-22 12:05:706 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:819 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 12:05:110 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 12:05:622 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 12:05:572 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 12:05:809 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-05-22 12:05:951 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-05-22 12:05:128 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-05-22 12:05:380 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 12:05:320 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 12:05:484 INFO  SearchCarsResultPage :42 - actual result: '6 audi a5s for sale under $50,000 in perth, wa'
+2023-05-22 12:05:484 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
